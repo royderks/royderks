@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+<img src="https://hackteam.io/stage.jpg" width="410" alt="iComics on an iPhone XS Max" align="right" />
+</p>
 
-<!--
-**royderks/royderks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Roy Derks 👋
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.linkedin.com/in/royderks1/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.twitter.com/gethackteam">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+<a href="https://www.youtube.com/results?search_query=roy+derks">
+<img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀  Training and workshops at [Hackteam](https://hackteam.io)
+* 🥑  Developer Relations at [StepZen](https://stepzen.com)
+* 🎤  Speaker about GraphQL, TypeScript, and React
+* 📚  Writes [articles](https://dev.to/gethackteam) and [books](https://www.amazon.com/Roy-Derks/e/B0834CJH9L)
