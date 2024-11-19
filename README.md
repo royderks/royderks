@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
 </p>
 
-* 🚀  Training and workshops at [Hackteam](https://hackteam.io)
-* 🥑  Developer Relations at [StepZen](https://stepzen.com)
-* 🎤  Speaker about GraphQL, TypeScript, and React
-* 📚  Writes [articles](https://dev.to/gethackteam) and [books](https://www.amazon.com/Roy-Derks/e/B0834CJH9L)
+* 🚀  Building AI products at [IBM](https://www.youtube.com/playlist?list=PLzpeuWUENMK3jYU3Du7qEeeq3CeWm4jJV)
+* 🎤  Speaks about AI, GraphQL, TypeScript, and React
+* 📚  Writes [articles](https://dev.to/gethackteam), records [videos](https://www.youtube.com/@gethackteam) and writes [books](https://www.amazon.com/Roy-Derks/e/B0834CJH9L)
